@@ -1,9 +1,10 @@
 # MethylSeq_Pipeline
 This repository contains the scripts used to analyze Methylseq datasets across all the Groups using MethylKit package in R
 
-## The Input required for the Methyl-Seq Analysis is the Output froM EMseq pipeline.
+The Input required for the Methyl-Seq Analysis is the Output from EMseq pipeline.
 
-# The Singularity image is added into the directory: /storage/colddata/basesolve/tools/METHYLKIT_FINAL.sif
+The Singularity image is added into the directory: /storage/colddata/basesolve/tools/METHYLKIT_FINAL.sif
+The location is : https://drive.google.com/drive/folders/1A-bfjZtkq3VU1wsljy8Ssyn63N9ucH9v?usp=share_link
 
 # The Script used to perform the Analysis is: /storage/colddata/basesolve/scripts/METHYLSEQ/METHYLSEQ_ANALYSIS.R
 
